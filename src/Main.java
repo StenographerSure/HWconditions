@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        //master
         //задача 1
         System.out.println("Задача 1");
         int age = 18;
